@@ -11,7 +11,8 @@
     "coverage": "istanbul cover --report lcov _mocha"
   },
   "pre-commit": [
-    "lint"
+    "lint",
+    "test"
   ],
   "dependencies": {
     "lcov-parse": "^1.0.0",
