@@ -1,6 +1,6 @@
 {
   "name": "@juliancoleman/assoc-by-key",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts an object of objects into an array of objects with a given predicate.",
   "main": "src/index.js",
   "author": "Julian Coleman <julcol03@gmail.com>",
