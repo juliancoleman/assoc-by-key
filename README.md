@@ -1,6 +1,7 @@
 # assoc-by-key
 
 [![Build Status](https://semaphoreci.com/api/v1/juliancoleman/assoc-by-key/branches/master/badge.svg)](https://semaphoreci.com/juliancoleman/assoc-by-key)
+[![npm version](https://badge.fury.io/js/%40juliancoleman%2Fassoc-by-key.svg)](https://badge.fury.io/js/%40juliancoleman%2Fassoc-by-key)
 
 A curried function using Ramda that transforms an object of
 objects into an array of objects, where the key becomes a
